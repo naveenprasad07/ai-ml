@@ -1,0 +1,5 @@
+[ 2025-09-28 12:54:01,821 ] 28 root - INFO - Entered the data ingestion method/component 
+[ 2025-09-28 12:54:01,825 ] 41 root - INFO - Read the dataset as DataFrame 
+[ 2025-09-28 12:54:01,829 ] 48 root - INFO - Raw data saved to artifacts\data.csv 
+[ 2025-09-28 12:54:01,835 ] 54 root - INFO - Train and test data saved to artifacts\train.csv and artifacts\test.csv 
+[ 2025-09-28 12:54:01,835 ] 56 root - INFO - Data ingestion completed successfully 
