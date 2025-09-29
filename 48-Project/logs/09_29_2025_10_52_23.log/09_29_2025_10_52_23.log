@@ -1,0 +1,16 @@
+[ 2025-09-29 10:52:26,198 ] 31 root - INFO - Entered the data ingestion method/component 
+[ 2025-09-29 10:52:26,213 ] 44 root - INFO - Read the dataset as DataFrame 
+[ 2025-09-29 10:52:26,218 ] 51 root - INFO - Raw data saved to artifacts\data.csv 
+[ 2025-09-29 10:52:26,227 ] 57 root - INFO - Train and test data saved to artifacts\train.csv and artifacts\test.csv 
+[ 2025-09-29 10:52:26,227 ] 59 root - INFO - Data ingestion completed successfully 
+[ 2025-09-29 10:52:26,249 ] 67 root - INFO - Train and test data loaded successfully. 
+[ 2025-09-29 10:52:26,249 ] 68 root - INFO - Creating preprocessing object. 
+[ 2025-09-29 10:52:26,250 ] 50 root - INFO - Numerical and categorical pipelines created. 
+[ 2025-09-29 10:52:26,253 ] 80 root - INFO - Applying preprocessing on training and testing features. 
+[ 2025-09-29 10:52:26,267 ] 88 root - INFO - Saving preprocessing object. 
+[ 2025-09-29 10:52:26,272 ] 67 root - INFO - Train and test data loaded successfully. 
+[ 2025-09-29 10:52:26,272 ] 68 root - INFO - Creating preprocessing object. 
+[ 2025-09-29 10:52:26,272 ] 50 root - INFO - Numerical and categorical pipelines created. 
+[ 2025-09-29 10:52:26,272 ] 80 root - INFO - Applying preprocessing on training and testing features. 
+[ 2025-09-29 10:52:26,281 ] 88 root - INFO - Saving preprocessing object. 
+[ 2025-09-29 10:52:26,283 ] 34 root - INFO - Split training and test input data 
